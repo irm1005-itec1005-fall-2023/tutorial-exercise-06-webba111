@@ -1,0 +1,19 @@
+/*
+ * CSS File for the solution
+ * Tutorial 06
+ * There are no instructions for this one! You got this!
+ */
+
+
+html {
+  font-size: 1.2rem;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* Flex directives */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
